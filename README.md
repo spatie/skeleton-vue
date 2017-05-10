@@ -62,8 +62,6 @@ If you discover any security related issues, please contact freek@spatie.be inst
 - [:author_name](https://github.com/:author_username)
 - [All Contributors](../../contributors)
 
-This package is based on the solution presented by [Jeffrey Way](https://twitter.com/jeffrey_way) in the [practical example #3](https://laracasts.com/series/learn-vue-2-step-by-step/episodes/11) video in the [Vue series](https://vuecasts.com) on [Laracasts](https://laracasts.com)
-
 ## About Spatie
 Spatie is a webdesign agency based in Antwerp, Belgium. You'll find an overview of all our open source projects [on our website](https://spatie.be/opensource).
 
