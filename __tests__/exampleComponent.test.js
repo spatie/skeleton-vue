@@ -2,12 +2,12 @@ import { ExampleComponent } from '../src';
 import Vue from 'vue/dist/vue.js';
 
 describe('ExampleComponent', () => {
-    Vue.component('ExampleComponent', ExampleComponent);
+    Vue.component('example-component', ExampleComponent);
 
     beforeEach(() => {
         document.body.innerHTML = `
             <div id="app">
-                <ExampleComponent></ExampleComponent>
+                <example-component></example-component>
             </div>
         `;
     });
