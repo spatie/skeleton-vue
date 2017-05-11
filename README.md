@@ -30,8 +30,7 @@ yarn add :package_name
 
 or npm:
 
-
-```php
+```bash
 npm install :package_name --save
 ```
 
@@ -45,7 +44,7 @@ Please see [CHANGELOG](CHANGELOG.md) for more information what has changed recen
 
 ## Testing
 
-``` bash
+```bash
 yarn run test
 ```
 
