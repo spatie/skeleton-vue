@@ -1,7 +1,7 @@
 {
-  "name": ":package_name",
+  "name": "package_name",
   "version": "0.0.1",
-  "description": ":package_description",
+  "description": "package_description",
   "main": "dist/index.js",
   "jsnext:main": "src/index.js",
   "scripts": {
@@ -13,17 +13,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/spatie/:package_name.git"
+    "url": "https://github.com/spatie/package_name.git"
   },
   "keywords": [
     "spatie"
   ],
-  "author": ":author_name",
+  "author": "author_name",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/spatie/:package_name/issues"
+    "url": "https://github.com/spatie/package_name/issues"
   },
-  "homepage": "https://github.com/spatie/:package_name",
+  "homepage": "https://github.com/spatie/package_name",
   "peerDependencies": {
     "vue": "^2.3.0"
   },
