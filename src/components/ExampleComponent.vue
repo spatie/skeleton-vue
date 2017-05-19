@@ -10,7 +10,7 @@
 
         data: () => ({}),
 
-        computed: {},
+        computed: {}
     };
 </script>
 
