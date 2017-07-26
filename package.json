@@ -9,7 +9,7 @@
     "build": "rm -rf dist && NODE_ENV=production webpack",
     "lint": "eslint --ext .js,.vue --fix src __tests__; exit 0",
     "prepublish": "npm run test; npm run build",
-    "test": "jest"
+    "test": "NODE_ENV=testing jest"
   },
   "repository": {
     "type": "git",
