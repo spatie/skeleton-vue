@@ -12,14 +12,6 @@ Add a short description here, with some examples on how the package can be used.
 
 Add a link to a site where the component is being demonstrated live.
 
-## Postcardware
-
-You're free to use this package (it's [MIT-licensed](LICENSE.md)), but if it makes it to your production environment we highly appreciate you sending us a postcard from your hometown, mentioning which of our package(s) you are using.
-
-Our address is: Spatie, Samberstraat 69D, 2060 Antwerp, Belgium.
-
-All postcards are published [on our website](https://spatie.be/opensource/postcards).
-
 ## Installation
 
 You can install the package via yarn:
@@ -38,32 +30,46 @@ npm install package_name --save
 
 Add instruction on how the package can be used
 
-## Change log
-
-Please see [CHANGELOG](CHANGELOG.md) for more information what has changed recently.
-
-## Testing
+### Testing
 
 ```bash
 yarn test
 ```
 
+### Changelog
+
+Please see [CHANGELOG](CHANGELOG.md) for more information what has changed recently.
+
 ## Contributing
 
 Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 
-## Security
+### Security
 
-If you discover any security related issues, please contact author_email instead of using the issue tracker.
-
-## Credits
-
-- [author_name](https://github.com/author_username)
-- [All Contributors](../../contributors)
-
-## About Spatie
-Spatie is a webdesign agency based in Antwerp, Belgium. You'll find an overview of all our open source projects [on our website](https://spatie.be/opensource).
+If you discover any security related issues, please email freek@spatie.be instead of using the issue tracker.
 
 ## License
 
 The MIT License (MIT). Please see [License File](LICENSE.md) for more information.
+
+### Support us
+
+Does your business depend on our contributions? Reach out and support us on [Patreon](https://www.patreon.com/spatie). 
+All pledges will be dedicated to allocating workforce on maintenance and new awesome stuff.
+
+### Postcardware
+
+You're free to use this package, but if it makes it to your production environment we highly appreciate you sending us a postcard from your hometown, mentioning which of our package(s) you are using.
+
+Our address is: Spatie, Samberstraat 69D, 2060 Antwerp, Belgium.
+
+We publish all received postcards [on our company website](https://spatie.be/en/opensource/postcards).
+
+## Credits
+
+- [:author_name](https://github.com/:author_username)
+- [All Contributors](../../contributors)
+
+### About Spatie
+
+Spatie is a webdesign agency based in Antwerp, Belgium. You'll find an overview of all our open source projects [on our website](https://spatie.be/opensource).
