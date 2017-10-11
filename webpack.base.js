@@ -3,12 +3,12 @@ module.exports = {
         rules: [
             {
                 test: /\.js/,
-                loaders: ['babel-loader'],
+                loader: 'babel-loader',
                 exclude: /node_modules/,
             },
             {
                 test: /\.vue$/,
-                loaders: ['vue-loader'],
+                loader: 'vue-loader',
                 exclude: /node_modules/,
             },
         ],
